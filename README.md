@@ -1,4 +1,4 @@
-# Project Title
+# RM Phoenix Company Site Revamp
 
 Personal project I'm undertaking for a local screen printing business. The company requested a redesigned and updated site due to their current site rendering correctly only on desktop and being extremely outdated. (This remains an ongoing project).
 
@@ -10,4 +10,4 @@ Personal project I'm undertaking for a local screen printing business. The compa
 
 ## Authors
 
-* **Jason Hitching** - *Initial work* - [JasonHitching](https://github.com/JasonHitching)
+* **Jason Hitching** - *Initial work* - [Jason Hitching](https://github.com/JasonHitching)
