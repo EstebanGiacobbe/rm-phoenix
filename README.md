@@ -4,8 +4,9 @@ Personal project I'm undertaking for a local screen printing business. The compa
 
 ## Built With
 
-* [Bootstrap 4](https://getbootstrap.com/) - The web framework used
-* [Visual Studio Code](https://code.visualstudio.com/) - IDE Used
+* [HTML] | Structure and Presentation of the Webpage
+* [CSS] | Styling of HTML Elements
+* [Atom](https://atom.io/) | Text Editor Used
 
 
 ## Authors
