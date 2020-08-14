@@ -6,15 +6,10 @@ Personal project I'm undertaking for a local screen printing business. The compa
 
 Technology | Purpose
 ------------ | -------------
-[Bootstrap 4] | Web framework used
-[HTML] | Structure and Presentation of the Webpage
-[CSS] | Styling of HTML Elements
+[Bootstrap 4](https://getbootstrap.com/) | Web framework used
+HTML | Structure and Presentation of the Webpage
+CSS | Styling of HTML Elements
 [Atom](https://atom.io/) | Text Editor Used
-
-# Preview
-
-A preview of the website in its current state is available on my [Codepen] (https://codepen.io/JasonHitching/project/editor/AMoQGr)
-
 
 ## Authors
 
